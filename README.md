@@ -6,7 +6,6 @@ This project explores 768 patient records to identify patterns and risk factors 
 with diabetes onset. The analysis moves from data quality checks through univariate and
 bivariate analysis, correlation analysis, and clinically-informed risk groupings
 
-
 ## 📊Data Set Description 
 
 * Source: [Pima Indians Diabetes Dataset](http://kaggle.com) 
@@ -90,7 +89,6 @@ diabetes = pd.read_csv("Diabetes.csv")
   findings in those specific segments.
 
 ## 💡 Conclusion: What Next? 
-##  Next step
 * Handle missing data through imputation strategies
 * Address class imbalance (e.g. class weighting, SMOTE)
 * Build and compare classification models (Logistic Regression, Random Forest, XGBoost) to

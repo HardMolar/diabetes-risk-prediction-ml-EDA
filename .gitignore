@@ -1,0 +1,6 @@
+.ipynb_checkpoints/Diabetes-checkpoint.ipynb
+.DS_Store
+_pyycache_/
+*.pyc
+venv/
+.env

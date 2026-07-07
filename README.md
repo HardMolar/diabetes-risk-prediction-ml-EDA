@@ -9,6 +9,7 @@ This project explores 768 patient records to identify patterns and risk factors 
 * Source: [Pima Indians Diabetes Dataset](http://kaggle.com) 
 * Size: 768
 * Column Description:
+  
 |Column                  |Description                                |
 |------------------------|-------------------------------------------|
 |Pregnancies             |Number of times pregnant                   |

@@ -1,10 +1,8 @@
 # Diabetes Risk Prediction
-This data analysis project examining which clinical and lifestyle factors are most strongly associated with diabetes risk, using the Pima Indians Diabetes dataset.
+This is a data analysis project examining which clinical and lifestyle factors are most strongly associated with diabetes risk, using the Pima Indians Diabetes dataset.
 
 ## 📌Case Study Overview 
-This project explores 768 patient records to identify patterns and risk factors associated
-with diabetes onset. The analysis moves from data quality checks through univariate and
-bivariate analysis, correlation analysis, and clinically-informed risk groupings
+This project explores 768 patient records to identify patterns and risk factors associated with diabetes onset. The analysis moves from data quality checks through univariate andbivariate analysis, correlation analysis, and clinically-informed risk groupings.
 
 ## 📊Data Set Description 
 
